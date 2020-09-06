@@ -1,5 +1,6 @@
 #twitter bot
 import tweepy
+import os
 def create_api():
   consumer_key=os.getesv('consumer_key')
   consumer_secret=os.getesv('consumer_secret')
