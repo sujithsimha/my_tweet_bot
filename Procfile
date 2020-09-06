@@ -1,1 +1,1 @@
-worker: python my_tweet_bot
+worker: python simha_intern_bot.py
